@@ -25,3 +25,5 @@
 	rewind.addEventListener("click", rewindAudio);
 
 })();
+
+//die cunt
